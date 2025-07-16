@@ -73,8 +73,8 @@ The dataset used is from Kaggle:
 
  ✨ Author
 
-**Akshaya N Raghavan**  
-BCA Analytics | Aspiring Data Scientist  
+**Akshaya N**  
+BCA Analytics | Aspiring Data Analyst
 GitHub: [@Akshaya-NirmalKumar](https://github.com/Akshaya-NirmalKumar)
 
 ---
